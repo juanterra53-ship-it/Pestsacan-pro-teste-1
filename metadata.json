@@ -1,0 +1,8 @@
+
+{
+  "name": "PestScan Urban",
+  "description": "Aplicativo de reconhecimento e guia completo de pragas urbanas usando IA para identificação por câmera e controle sugerido.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
